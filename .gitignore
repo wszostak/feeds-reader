@@ -1,0 +1,6 @@
+venv
+__pycache__
+.vscode
+
+feeds_last_check.json
+feeds.txt
